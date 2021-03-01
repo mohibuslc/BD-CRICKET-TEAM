@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BD-CRICKET-TEAM/static/css/main.1f569e32.chunk.css",
+    "main.js": "/BD-CRICKET-TEAM/static/js/main.3aa98b62.chunk.js",
+    "main.js.map": "/BD-CRICKET-TEAM/static/js/main.3aa98b62.chunk.js.map",
+    "runtime-main.js": "/BD-CRICKET-TEAM/static/js/runtime-main.5d037d6d.js",
+    "runtime-main.js.map": "/BD-CRICKET-TEAM/static/js/runtime-main.5d037d6d.js.map",
+    "static/css/2.150d169a.chunk.css": "/BD-CRICKET-TEAM/static/css/2.150d169a.chunk.css",
+    "static/js/2.b0d532e6.chunk.js": "/BD-CRICKET-TEAM/static/js/2.b0d532e6.chunk.js",
+    "static/js/2.b0d532e6.chunk.js.map": "/BD-CRICKET-TEAM/static/js/2.b0d532e6.chunk.js.map",
+    "static/js/3.2b96198c.chunk.js": "/BD-CRICKET-TEAM/static/js/3.2b96198c.chunk.js",
+    "static/js/3.2b96198c.chunk.js.map": "/BD-CRICKET-TEAM/static/js/3.2b96198c.chunk.js.map",
+    "index.html": "/BD-CRICKET-TEAM/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/BD-CRICKET-TEAM/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.1f569e32.chunk.css.map": "/BD-CRICKET-TEAM/static/css/main.1f569e32.chunk.css.map",
+    "static/js/2.b0d532e6.chunk.js.LICENSE.txt": "/BD-CRICKET-TEAM/static/js/2.b0d532e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d037d6d.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.b0d532e6.chunk.js",
+    "static/css/main.1f569e32.chunk.css",
+    "static/js/main.3aa98b62.chunk.js"
+  ]
+}
